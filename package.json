@@ -1,0 +1,17 @@
+{
+  "name": "Polling App.",
+  "version": "0.0.0",
+  "description": "An event tracker using Long Polling.",
+  "main": "server.js",
+  "repository": "",
+  "author": "BO",
+  "dependencies": {
+    "async": "~0.2.8",
+    "colors": "^1.1.2",
+    "eventsource": "^1.0.5",
+    "express": "~3.2.4",
+    "fast-json-patch": "^2.0.6",
+    "jsonwebtoken": "^8.1.0",
+    "request": "^2.83.0"
+  }
+}

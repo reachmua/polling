@@ -1,5 +1,6 @@
 Welcome to your Node.js project on Cloud9 IDE!
-    ----------------------------------------------------------------- 
+
+##    ----------------------------------------------------------------- 
 
 This Long Polling app requests JSON events data from Box's Platform.
 

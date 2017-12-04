@@ -1,4 +1,4 @@
-Welcome to your Node.js project on Cloud9 IDE!
+A Node.js project for polling events.
 
 ##    ----------------------------------------------------------------- 
 

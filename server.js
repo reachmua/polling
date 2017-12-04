@@ -1,5 +1,6 @@
+// Functional notes: this is incomplete.
 // Beget: 11/26/2017
-// # server.js
+// 'server.js'
 //
 // A simple file update Polling server.
 //
